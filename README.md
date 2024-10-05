@@ -1,4 +1,4 @@
-##Student Housing Recommendation in Bengaluru using Exploratory Analysis of Geolocational Data
+## Student Housing Recommendation in Bengaluru using Exploratory Analysis of Geolocational Data
 
 This project focuses on leveraging geolocational data to find the best accommodation options for students in Bangalore. We employ K-Means Clustering, a popular unsupervised machine learning technique, to group student data based on various factors, including food choices, nutrition, preferences, childhood favorites, and other personal information collected from college students. This exploratory analysis aims to provide valuable insights and recommendations for students searching for accommodation, making their transition to Bangalore more comfortable and enjoyable.
 
